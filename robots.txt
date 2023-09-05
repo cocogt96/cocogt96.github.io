@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cocogt96.github.io/cocogt96/sitemap.xml
+Sitemap: https://cocogt96.github.io/sitemap.xml
