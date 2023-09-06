@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-cocotao.guo@onnect.polyu.hk
+cocotao.guo@connect.polyu.hk
 
 Tao Guo is a Ph.D. student of the Pervasive Edge Intelligence Lab at The Hong Kong Polytechnic University
 (PEILab), directed by Prof. Song Guo. Her research interests mainly lie in Edge Learning, Federated Learning,
