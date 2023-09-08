@@ -13,15 +13,15 @@
       "studyType": "Ph.D.",
       "startDate": "2020",
       "endDate": "current",
-      "score": "CGPA: 3.4/4"
+      "score": ""
     },
-    {
+    {  
       "institution": "Columbia University in the City of New York, New York, U.S.",
       "area": "Statistics, Graduate School of Arts and Sciences",
       "studyType": "M.S.",
       "startDate": "2017",
       "endDate": "2019",
-      "score": "CGPA: 3.5/4"
+      "score": ""
     },
     {
       "institution": "B.E. Huazhong University of Science and Technology, Wuhan, China",
@@ -29,7 +29,15 @@
       "studyType": "B.E.",
       "startDate": "2013",
       "endDate": "2017",
-      "score": "CGPA: 3.8/4"
+      "score": ""
+    },
+    {
+      "institution": "National University of Singapore, Singapore",
+      "area": "School of Computer Science and Technology",
+      "studyType": "Summer school",
+      "startDate": "2016",
+      "endDate": "2016",
+      "score": ""
     }
   ],
   "publications": [

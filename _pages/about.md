@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hey, thank you for stopping by. :notes:
 
-Tao Guo is a Ph.D. student of the **Pervasive Edge Intelligence Lab** at The Hong Kong Polytechnic University (PEILab), directed by Prof. Song Guo. Prior to that, she received her B.E. degree in Computer Science and Technology from Huazhong University of Science and Technology in 2017,  and M.S. degree in Statistics in Columbia University in the City of New York in 2019. Her research interests mainly lie in Edge Learning, Federated Learning, Trustworthy Machine Learning and Large Vision-Language Models. She published papers in top venues like **WWW**, **ATC**, **NeuIPS**, **TMC**, etc.
+Tao Guo is a Ph.D. student of the Pervasive Edge Intelligence Lab at ***The Hong Kong Polytechnic University (PEILab)***, directed by Prof. Song Guo. Prior to that, she received her B.E. degree in Computer Science and Technology from ***Huazhong University of Science and Technology*** in 2017,  and M.S. degree in Statistics in ***Columbia University in the City of New York*** in 2019. Her research interests mainly lie in Edge Learning, Federated Learning, Trustworthy Machine Learning and Large Vision-Language Models. She published papers in top venues like ***WWW, ATC, NeuIPS, TMC***, etc.
 
 
 I am expected to graduate in late 2023 and am currently open to research opportunities. :sparkles:
