@@ -4,7 +4,38 @@
     "email": "cocotao.guo@connect.polyu.hk",
     "research interest": "Edge Learning, Federated Learning, Trustworthy Machine Learning and Large Vision-Language Models"
   },
-  "work": [],
+  "teaching assitant": [
+    {
+      "startDate": "Spring 2023",
+      "endDate": "",
+      "courseName":"COMP3512: Legal Aspects, Professionalism And Ethics Of Computing",
+      "affiliation":"The Hong Kong Polytechnic University"
+    },
+    {
+      "startDate": "Fall 2022",
+      "endDate": "",
+      "courseName":"COMP2S01: Technology Beyond Borders",
+      "affiliation":"The Hong Kong Polytechnic University"
+    },
+    {
+      "startDate": "Fall 2021",
+      "endDate": "",
+      "courseName":"COMP1011: Programming Fundamentals",
+      "affiliation":"The Hong Kong Polytechnic University"
+    },
+    {
+      "startDate": "Spring 2021",
+      "endDate": "",
+      "courseName":"COMP1011: Programming Fundamentals",
+      "affiliation":"The Hong Kong Polytechnic University"
+    },
+    {
+      "startDate": "Spring 2017",
+      "endDate": "",
+      "courseName":"Database System",
+      "affiliation":"Huazhong University of Science and Technology"
+    }
+  ],
   "volunteer": [],
   "education": [
     {
