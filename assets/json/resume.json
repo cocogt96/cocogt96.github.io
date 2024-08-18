@@ -81,6 +81,12 @@
       "publisher":"Zhou, Enyuan and Guo, Song and Ma, Zhixiu and Hong, Zicong and Guo, Tao and Dong, Peiran",
       "summary":"Proceedings of the ACM Web Conference 2024",
       "releaseDate":"2024"
+    },
+    {
+      "name":"Explore and Cure: Unveiling Sample Effectiveness with Context-Aware Federated Prompt Tuning",
+      "publisher":"Guo, Tao and Guo, Song and Wang, Junxiao",
+      "summary":"IEEE Transactions on Mobile Computing",
+      "releaseDate":"2024"
     }
   ],
   "awards": [
