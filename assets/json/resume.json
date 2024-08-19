@@ -11,7 +11,7 @@
       "area": "Department of Computing",
       "studyType": "Ph.D.",
       "startDate": "2020",
-      "endDate": "current",
+      "endDate": "2024",
       "score": ""
     },
     {  
@@ -41,7 +41,7 @@
   ],
   "publications": [
     {
-      "name": "training with loss-aware compensation and backward quantization for tiny on-device learning",
+      "name": "Octo: INT8 Training with loss-aware compensation and backward quantization for tiny on-device learning",
       "publisher": "Zhou, Qihua and Guo, Song and Qu, Zhihao and Guo, Jingcai and Xu, Zhenda and Zhang, Jiewei and Guo, Tao and Luo, Boyuan and Zhou, Jingren",
       "summary": "2021 USENIX Annual Technical Conference (USENIX ATC 21)",
       "releaseDate": "2021"
@@ -77,15 +77,15 @@
       "releaseDate":"2022"
     },
     {
-      "name":"Poisoning Attack on Federated Knowledge Graph Embedding",
-      "publisher":"Zhou, Enyuan and Guo, Song and Ma, Zhixiu and Hong, Zicong and Guo, Tao and Dong, Peiran",
-      "summary":"Proceedings of the ACM Web Conference 2024",
-      "releaseDate":"2024"
-    },
-    {
       "name":"Explore and Cure: Unveiling Sample Effectiveness with Context-Aware Federated Prompt Tuning",
       "publisher":"Guo, Tao and Guo, Song and Wang, Junxiao",
       "summary":"IEEE Transactions on Mobile Computing",
+      "releaseDate":"2024"
+    },
+    {
+      "name":"Poisoning Attack on Federated Knowledge Graph Embedding",
+      "publisher":"Zhou, Enyuan and Guo, Song and Ma, Zhixiu and Hong, Zicong and Guo, Tao and Dong, Peiran",
+      "summary":"Proceedings of the ACM Web Conference 2024",
       "releaseDate":"2024"
     }
   ],
