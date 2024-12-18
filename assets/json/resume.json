@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tao Guo",
     "email": "cocotao.guo@connect.polyu.hk",
-    "research interest": "Edge Learning, Federated Learning, Trustworthy Machine Learning and Large Vision-Language Models"
+    "research interest": "Federated foundation model, Federated Learning, Large Vision-Language Models, Edge Learning, Trustworthy Machine Learning"
   },
   "volunteer": [],
   "education": [
@@ -37,6 +37,44 @@
       "startDate": "2016",
       "endDate": "2016",
       "score": ""
+    }
+  ],
+  "professional services": [
+    {
+      "title": "Invited Reviewer",
+      "type": "IEEE TMC",
+      "fulltype": "IEEE Transactions on Mobile Computing",
+      "summary": ""
+    },
+    {
+      "title": "Invited Reviewer",
+      "type": "IEEE JSAC",
+      "fulltype": "IEEE Journal on Selected Areas in Communications",
+      "summary": ""
+    },
+    {
+      "title": "Invited Reviewer",
+      "type": "IEEE TNNLS",
+      "fulltype": "IEEE Transactions on Neural Networks and Learning Systems",
+      "summary": ""
+    },
+    {
+      "title": "Invited Reviewer",
+      "type": "IEEE IOTJ",
+      "fulltype": "IEEE Internet of Things Journal",
+      "summary": ""
+    },
+    {
+      "title": "Invited Reviewer",
+      "type": "IEEE NETWORK",
+      "fulltype": "IEEE Network Magazine",
+      "summary": ""
+    },
+    {
+      "title": "Invited Reviewer",
+      "type": "ACM MM",
+      "fulltype": "ACM Multimedia",
+      "summary": ""
     }
   ],
   "publications": [
@@ -103,37 +141,49 @@
       "summary": ""
     }
   ],
-  "teaching assitant": [
+  "teaching": [
     {
-      "startDate": "Spring 2023",
-      "endDate": "",
-      "courseName":"COMP3512: Legal Aspects, Professionalism And Ethics Of Computing",
-      "affiliation":"The Hong Kong Polytechnic University"
-    },
-    {
-      "startDate": "Fall 2022",
-      "endDate": "",
-      "courseName":"COMP2S01: Technology Beyond Borders",
-      "affiliation":"The Hong Kong Polytechnic University"
-    },
-    {
-      "startDate": "Fall 2021",
-      "endDate": "",
-      "courseName":"COMP1011: Programming Fundamentals",
-      "affiliation":"The Hong Kong Polytechnic University"
-    },
-    {
-      "startDate": "Spring 2021",
-      "endDate": "",
-      "courseName":"COMP1011: Programming Fundamentals",
-      "affiliation":"The Hong Kong Polytechnic University"
-    },
-    {
-      "startDate": "Spring 2017",
-      "endDate": "",
-      "courseName":"Database System",
-      "affiliation":"Huazhong University of Science and Technology"
-    }
+        "startDate": "Fall 2024",
+        "endDate": "",
+        "courseName":"Cloud Computing Technology and Applications",
+        "affiliation":"Shenzhen University"
+      },
+      {
+        "startDate": "Fall 2024",
+        "endDate": "",
+        "courseName":"Computer Science Fundamentals",
+        "affiliation":"Shenzhen University"
+      }
+    // {
+    //   "startDate": "Spring 2023",
+    //   "endDate": "",
+    //   "courseName":"COMP3512: Legal Aspects, Professionalism And Ethics Of Computing",
+    //   "affiliation":"The Hong Kong Polytechnic University"
+    // },
+    // {
+    //   "startDate": "Fall 2022",
+    //   "endDate": "",
+    //   "courseName":"COMP2S01: Technology Beyond Borders",
+    //   "affiliation":"The Hong Kong Polytechnic University"
+    // },
+    // {
+    //   "startDate": "Fall 2021",
+    //   "endDate": "",
+    //   "courseName":"COMP1011: Programming Fundamentals",
+    //   "affiliation":"The Hong Kong Polytechnic University"
+    // },
+    // {
+    //   "startDate": "Spring 2021",
+    //   "endDate": "",
+    //   "courseName":"COMP1011: Programming Fundamentals",
+    //   "affiliation":"The Hong Kong Polytechnic University"
+    // },
+    // {
+    //   "startDate": "Spring 2017",
+    //   "endDate": "",
+    //   "courseName":"Database System",
+    //   "affiliation":"Huazhong University of Science and Technology"
+    // }
   ],
   "certificates": [],
   "skills": [],

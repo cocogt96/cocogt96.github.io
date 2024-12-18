@@ -87,14 +87,16 @@ layout: default
               {% include resume/basics.html %}
             {% when "education" %}
               {% include resume/education.html %}
+            {% when "professional services" %}
+              {% include resume/services.html %}
             {% when "volunteer" %}
               {% include resume/volunteer.html %}
             {% when "projects" %}
               {% include resume/projects.html %}
             {% when "awards" %}
               {% include resume/awards.html %}
-            <!-- {% when "teaching assitant" %}
-              {% include resume/work.html %} -->
+            {% when "teaching" %}
+              {% include resume/work.html %}
             {% when "skills" %}
               {% include resume/skills.html %}
             {% when "publications" %}

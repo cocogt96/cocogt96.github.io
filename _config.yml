@@ -414,8 +414,9 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  - teaching assitant
-  - publications
+  - professional services
+  - teaching
+  # - publications
   - projects
   - volunteer
   - awards
@@ -424,3 +425,4 @@ jsonresume:
   - languages
   - interests
   - references
+ 
