@@ -143,6 +143,12 @@
   ],
   "teaching": [
     {
+        "startDate": "Spring 2025",
+        "endDate": "",
+        "courseName":"Fundamentals of Multimedia",
+        "affiliation":"Shenzhen University"
+      },
+      {
         "startDate": "Fall 2024",
         "endDate": "",
         "courseName":"Cloud Computing Technology and Applications",
