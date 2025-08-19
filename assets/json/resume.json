@@ -129,6 +129,12 @@
   ],
   "awards": [
     {
+      "title": "Outstanding Graduates",
+      "date": "2017",
+      "awarder": "Huazhong University of Science and Technology, Wuhan, China",
+      "summary": ""
+    },
+    {
       "title": "School of Computer Science People's Scholarship",
       "date": "2015 - 2016",
       "awarder": "Huazhong University of Science and Technology, Wuhan, China",
@@ -142,6 +148,18 @@
     }
   ],
   "teaching": [
+    {
+        "startDate": "Fall 2025",
+        "endDate": "",
+        "courseName":"Computer Science Fundamentals",
+        "affiliation":"Shenzhen University"
+      },
+    {
+        "startDate": "Fall 2025",
+        "endDate": "",
+        "courseName":"Engineering Ethics",
+        "affiliation":"Shenzhen University"
+      },
     {
         "startDate": "Spring 2025",
         "endDate": "",
