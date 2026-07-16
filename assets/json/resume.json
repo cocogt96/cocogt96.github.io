@@ -125,6 +125,18 @@
       "publisher":"Zhou, Enyuan and Guo, Song and Ma, Zhixiu and Hong, Zicong and Guo, Tao and Dong, Peiran",
       "summary":"Proceedings of the ACM Web Conference 2024",
       "releaseDate":"2024"
+    },
+    {
+      "name":"Fed-Duet: Dual Expert-Orchestrated Framework for Continual Federated Vision-Language Learning",
+      "publisher":"Tao Guo, Junwei Chen and Laizhong Cui",
+      "summary":"International Conference on Learning Representations 2026",
+      "releaseDate":"2026"
+    },
+    {
+      "name":"FedPCR: Prototype-Guided Clustering and Reflective Retrieval for Personalized Federated Foundation Models",
+      "publisher":"Tao Guo, Zhuohong Lu and Laizhong Cui",
+      "summary":"【Best paper award】The 20th International Conference on Wireless Artificial Intelligent Computing Systems and Applications",
+      "releaseDate":"2026"
     }
   ],
   "awards": [
